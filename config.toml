@@ -1,0 +1,20 @@
+baseURL = "http://meck.se/"
+languageCode = "en-us"
+title = "Meck Ljudteknik AB"
+theme = "hallo"
+[Author]
+    name = "meck"
+[params.colors]
+    background = "#2e3440"
+    foreground = "#d8dee9"
+    hover = "#ebcb8b"
+[params]
+    [params.links.email]
+        iconset = "fas"
+        icon = "envelope"
+        title = "E-mail"
+        url = "mailto:johan@meck.se"
+    [params.links.github]
+        icon = "github"
+        title = "Github"
+        url = "https://github.com/meck"
